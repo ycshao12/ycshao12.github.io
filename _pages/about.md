@@ -16,5 +16,15 @@ SE for AI
 Publications
 ------
 - **Are LLMs Correctly Integrated into Software Systems?**  
-<u>Yuchen Shao<u>, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan*  
-International Conference on Software Engineering (ICSE'25) [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
+**Yuchen Shao**, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan*  
+International Conference on Software Engineering (**ICSE'25**) [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
+
+News
+------
+- Feb 2025. **Hydrangea**, our defect library for LLM-enabled applications is published! [link](https://github.com/ecnusse/Hydrangea)
+
+Award
+------
+1. Outstanding Graduate Award, Shanghai, 2023.
+2. Shanghai Municipal Scholarship, 2022.
+3. Outstanding Volunteer, Shanghai University, 2020.
