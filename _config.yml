@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuchen Shao"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yuchen Shao"
-description              : &description "personal description"
-url                      : https://github.com/ycshao12 # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Master student at Software Engineering Institute, ECNU"
+url                      : https://ycshao12.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
