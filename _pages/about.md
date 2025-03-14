@@ -9,8 +9,8 @@ redirect_from:
 
 Yuchen Shao is a master student of Software Engineering Institute, [East China Normal University](https://english.ecnu.edu.cn/) (2023-), co-advised by [Prof.Chengcheng Wan](https://chengcheng-wan.github.io/) and [Prof. Ting Su](https://tingsu.github.io/). Her undergraduate studies were undertaken at [Shanghai University](https://en.shu.edu.cn/)(2019-2023).
 
-Her Research Interest:
-======
+Research Interest:
+------
 SE for AI
 
 Publications
