@@ -28,4 +28,4 @@ Award
 Service and Talks
 ------
 1. [Talk] "Are LLMs Correctly Integrated into Software Systems?" in ICSE'25, May 2025. 
-2. [Teaching] TA of「Cloud Computing Technology」in ECNU, in 2023。
+2. [Teaching] TA of「Cloud Computing Technology」in ECNU, in 2023.
