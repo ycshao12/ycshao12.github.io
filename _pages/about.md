@@ -19,6 +19,18 @@ Publications
 **Yuchen Shao**, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan*  
 International Conference on Software Engineering (*ICSE'25*) [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
 
+
+Preprints
+------
+- **A Study of In-Context-Learning-Based Text-to-SQL Errors**  
+Jiawei Shen, Chengcheng Wan*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, **Yuchen Shao**, Yueling Zhang, Weikai Miao, Geguang Pu*
+[[Paper](https://arxiv.org/abs/2501.09310)]
+
+News
+------
+- One misintegration case identified in our defect library Hydrangea has been officially assigned **CVE-2025-45150**.
+
+
 Award
 ------
 1. Outstanding Graduate Award, Shanghai, 2023.
