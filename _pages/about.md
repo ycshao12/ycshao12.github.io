@@ -11,7 +11,8 @@ Yuchen Shao is a third-year Ph.D. student of Software Engineering Institute, [Ea
 
 Research Interest
 ------
-SE for AI
+- SE/Sys for AI
+- Software Testing
 
 Publications
 ------
