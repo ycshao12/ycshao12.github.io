@@ -32,7 +32,7 @@ Jiawei Shen, Chengcheng Wan*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, **Yuchen Shao**,
 
 News
 ------
-- One misintegration case identified in our defect library Hydrangea has been officially assigned **CVE-2025-45150**.
+- One misintegration case identified in our defect library Hydrangea has been officially and publicly assigned **CVE-2025-45150**.
 
 
 Award
