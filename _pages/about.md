@@ -23,7 +23,7 @@ International Conference on Software Engineering (*ICSE'25*) [[Paper](https://ar
 Preprints
 ------
 - **Understanding the Design Decisions of Retrieval-Augmented Generation Systems**  
-Shengming Zhao, Yuchen Shao, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma
+Shengming Zhao, **Yuchen Shao**, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma
 [[Paper](https://arxiv.org/abs/2411.19463v2)]
 
 - **A Study of In-Context-Learning-Based Text-to-SQL Errors**  
