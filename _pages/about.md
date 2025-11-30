@@ -38,9 +38,10 @@ News
 
 Award
 ------
-1. Outstanding Graduate Award, Shanghai, 2023.
-2. Shanghai Municipal Scholarship, 2022.
-3. Outstanding Volunteer, Shanghai University, 2020.
+1. CCF Research Achievement Prototype System Competition Outstanding Award, 2025.
+2. Outstanding Graduate Award, Shanghai, 2023.
+3. Shanghai Municipal Scholarship, 2022.
+4. Outstanding Volunteer, Shanghai University, 2020.
 
 Service and Talks
 ------
