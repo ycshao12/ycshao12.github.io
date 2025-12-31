@@ -16,6 +16,10 @@ Research Interest
 
 Publications
 ------
+- **Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time**
+**Yuchen Shao**, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan*
+International Conference on Software Engineering (*ICSE'26*)
+
 - **Are LLMs Correctly Integrated into Software Systems?**  
 **Yuchen Shao**, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan*  
 International Conference on Software Engineering (*ICSE'25*) [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
