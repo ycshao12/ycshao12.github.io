@@ -16,7 +16,11 @@ Research Interest
 
 Publications
 ------
-- **Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time**
+- **PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks**  
+Ziqun Bao, Jiaqiang Niu, **Yuchen Shao**, Chengcheng Wan*
+The Web Conference 2026 (*WWW'26*)
+
+- **Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time**  
 **Yuchen Shao**, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan*
 International Conference on Software Engineering (*ICSE'26*)
 
