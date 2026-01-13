@@ -16,27 +16,27 @@ Research Interest
 
 Publications
 ------
-- **PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks**  
-Ziqun Bao, Jiaqiang Niu, **Yuchen Shao**, Chengcheng Wan*
+- **PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks**<br>
+Ziqun Bao, Jiaqiang Niu, **Yuchen Shao**, Chengcheng Wan*<br>
 The Web Conference 2026 (*WWW'26*)
 
-- **Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time**  
-**Yuchen Shao**, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan*
+- **Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time**<br>
+**Yuchen Shao**, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan*<br>
 International Conference on Software Engineering (*ICSE'26*)
 
-- **Are LLMs Correctly Integrated into Software Systems?**  
-**Yuchen Shao**, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan*  
+- **Are LLMs Correctly Integrated into Software Systems?**<br>
+**Yuchen Shao**, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan*<br>
 International Conference on Software Engineering (*ICSE'25*) [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
 
 
 Preprints
 ------
-- **Understanding the Design Decisions of Retrieval-Augmented Generation Systems**  
-Shengming Zhao, **Yuchen Shao**, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma
+- **Understanding the Design Decisions of Retrieval-Augmented Generation Systems**<br>
+Shengming Zhao, **Yuchen Shao**, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma<br>
 [[Paper](https://arxiv.org/abs/2411.19463v2)]
 
 - **A Study of In-Context-Learning-Based Text-to-SQL Errors**  
-Jiawei Shen, Chengcheng Wan*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, **Yuchen Shao**, Yueling Zhang, Weikai Miao, Geguang Pu*
+Jiawei Shen, Chengcheng Wan*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, **Yuchen Shao**, Yueling Zhang, Weikai Miao, Geguang Pu*<br>
 [[Paper](https://arxiv.org/abs/2501.09310)]
 
 News
