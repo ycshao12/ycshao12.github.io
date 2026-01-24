@@ -16,6 +16,10 @@ Research Interest
 
 Publications
 ------
+- **OmniStore: Towards a Unified Standard for Cost-Efficient, High-Performance Multi-modal Storage**<br>
+Long Yang, **Yuchen Shao**, Chengcheng Wan*, Liang Shi*<br>
+The 24th USENIX Conference on File and Storage Technologies (*FAST '26 WiPs and Posters)*)
+
 - **PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks**<br>
 Ziqun Bao, Jiaqiang Niu, **Yuchen Shao**, Chengcheng Wan*<br>
 The Web Conference 2026 (*WWW'26*)
