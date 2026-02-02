@@ -57,6 +57,7 @@ Award
 
 Service and Talks
 ------
-2. [Review] Comference reviewer for WWW2026 (The ACM Web Conference 2026). 
-2. [Talk] "Are LLMs Correctly Integrated into Software Systems?" in ICSE'25, May 2025. 
-3. [Teaching] TA of「Cloud Computing Technology」in ECNU, in 2023.
+1. [Talk] "From Empirical Study to Runtime Mitigation: Addressing Integration Failures in LLM-Enabled Software" in NUS-TEST lab, February 2026.[[Link]([https://nus-test.github.io/event/260211/)]
+2. [Review] Conference reviewer for WWW2026 (The ACM Web Conference 2026). 
+3. [Talk] "Are LLMs Correctly Integrated into Software Systems?" in ICSE'25, May 2025. 
+4. [Teaching] TA of「Cloud Computing Technology」in ECNU, in 2023.
