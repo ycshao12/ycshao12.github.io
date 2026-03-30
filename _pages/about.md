@@ -22,8 +22,8 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
 
 - Understanding the Design Decisions of Retrieval-Augmented Generation Systems  
   Shengming Zhao, **Yuchen Shao**, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma  
-  [[Paper](https://arxiv.org/abs/2411.19463v2)]
   ACM Transactions on Software Engineering and Methodology (TOSEM'26)
+  [[Paper](https://arxiv.org/abs/2411.19463v2)]
 
 - PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks  
   Ziqun Bao, Jiaqiang Niu, **Yuchen Shao**, Chengcheng Wan*  
@@ -31,8 +31,8 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
   
 - A Study of In-Context-Learning-Based Text-to-SQL Errors  
   Jiawei Shen, Chengcheng Wan*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, **Yuchen Shao**, Yueling Zhang, Weikai Miao, Geguang Pu*  
-  [[Paper](https://arxiv.org/abs/2501.09310)]
   The ACM International Conference on the Foundations of Software Engineering (FSE ’26)
+  [[Paper](https://arxiv.org/abs/2501.09310)]
 
 - OmniStore: Towards a Unified Standard for Cost-Efficient, High-Performance Multi-modal Storage  
   Long Yang, **Yuchen Shao**, Chengcheng Wan*, Liang Shi*  
