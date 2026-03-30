@@ -14,32 +14,37 @@ Yuchen Shao is a third-year Ph.D. student of Software Engineering Institute, [Ea
 
 ## Publications
 
-- OmniStore: Towards a Unified Standard for Cost-Efficient, High-Performance Multi-modal Storage  
-  Long Yang, **Yuchen Shao**, Chengcheng Wan*, Liang Shi*  
-  The 24th USENIX Conference on File and Storage Technologies (FAST ’26 WiPs and Posters)
-
-- PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks  
-  Ziqun Bao, Jiaqiang Niu, **Yuchen Shao**, Chengcheng Wan*  
-  The Web Conference 2026 (WWW ’26)
+**2026**
 
 - Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time  
   **Yuchen Shao**, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan*  
   International Conference on Software Engineering (ICSE ’26)
+
+- Understanding the Design Decisions of Retrieval-Augmented Generation Systems  
+  Shengming Zhao, **Yuchen Shao**, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma  
+  [[Paper](https://arxiv.org/abs/2411.19463v2)]
+  ACM Transactions on Software Engineering and Methodology (TOSEM'26)
+
+- PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks  
+  Ziqun Bao, Jiaqiang Niu, **Yuchen Shao**, Chengcheng Wan*  
+  The Web Conference 2026 (WWW ’26)
+  
+- A Study of In-Context-Learning-Based Text-to-SQL Errors  
+  Jiawei Shen, Chengcheng Wan*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, **Yuchen Shao**, Yueling Zhang, Weikai Miao, Geguang Pu*  
+  [[Paper](https://arxiv.org/abs/2501.09310)]
+  The ACM International Conference on the Foundations of Software Engineering (FSE ’26)
+
+- OmniStore: Towards a Unified Standard for Cost-Efficient, High-Performance Multi-modal Storage  
+  Long Yang, **Yuchen Shao**, Chengcheng Wan*, Liang Shi*  
+  The 24th USENIX Conference on File and Storage Technologies (FAST ’26 WiPs and Posters)
+
+**2025**
 
 - Are LLMs Correctly Integrated into Software Systems?  
   **Yuchen Shao**, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan*  
   International Conference on Software Engineering (ICSE ’25)  
   [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
 
-## Preprints
-
-- Understanding the Design Decisions of Retrieval-Augmented Generation Systems  
-  Shengming Zhao, **Yuchen Shao**, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma  
-  [[Paper](https://arxiv.org/abs/2411.19463v2)]
-
-- A Study of In-Context-Learning-Based Text-to-SQL Errors  
-  Jiawei Shen, Chengcheng Wan*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, **Yuchen Shao**, Yueling Zhang, Weikai Miao, Geguang Pu*  
-  [[Paper](https://arxiv.org/abs/2501.09310)]
 
 ## News
 - One misintegration case identified in our defect library Hydrangea has been officially and publicly assigned **CVE-2025-45150**.
