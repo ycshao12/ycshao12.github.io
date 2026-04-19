@@ -20,6 +20,10 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
   **Yuchen Shao**, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan*  
   International Conference on Software Engineering (ICSE ’26)
 
+- Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents
+  **Yuchen Shao**, Ziqun Bao, Yuheng Huang, Yuling Shi, Mingyu Weng, Yiwen Sun, Long Yang, Lei Ma, Ting Su, Chengcheng Wan*
+  International Symposium on Software Testing and Analysis (ISSTA'26)
+
 - Understanding the Design Decisions of Retrieval-Augmented Generation Systems  
   Shengming Zhao, **Yuchen Shao**, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma  
   ACM Transactions on Software Engineering and Methodology (TOSEM'26)
