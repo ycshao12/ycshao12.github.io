@@ -17,38 +17,35 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
 
 **2026**
 
-- Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time  
+- **Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time**  
   <u>Yuchen Shao</u>, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan<sup>*</sup>  
-  International Conference on Software Engineering (ICSE ’26)
+  *International Conference on Software Engineering (ICSE ’26)*
 
-- Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents  
-  <u>Yuchen Shao</u>, Ziqun Bao, Yuheng Huang, Yuling Shi, Mingyu Weng, Yiwen Sun, Long Yang, Lei Ma, Ting Su, Chengcheng Wan<sup>*</sup>
-  International Symposium on Software Testing and Analysis (ISSTA'26)
+- **Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents**  
+  <u>Yuchen Shao</u>, Ziqun Bao, Yuheng Huang, Yuling Shi, Mingyu Weng, Yiwen Sun, Long Yang, Lei Ma, Ting Su, Chengcheng Wan<sup>*</sup>  
+  *International Symposium on Software Testing and Analysis (ISSTA'26)*
 
-- Understanding the Design Decisions of Retrieval-Augmented Generation Systems  
+- **Understanding the Design Decisions of Retrieval-Augmented Generation Systems**  
   Shengming Zhao, <u>Yuchen Shao</u>, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan, Lei Ma  
-  ACM Transactions on Software Engineering and Methodology (TOSEM'26)
-  [[Paper](https://arxiv.org/abs/2411.19463v2)]
+  *ACM Transactions on Software Engineering and Methodology (TOSEM'26)* [[Paper](https://arxiv.org/abs/2411.19463v2)]
 
-- PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks  
+- **PADD: Prefix-based Attention Divergence Detector for LLM Jailbreaks**  
   Ziqun Bao, Jiaqiang Niu, <u>Yuchen Shao</u>, Chengcheng Wan<sup>*</sup>  
-  The Web Conference 2026 (WWW ’26)
+  *The Web Conference 2026 (WWW ’26)*
   
-- A Study of In-Context-Learning-Based Text-to-SQL Errors  
-  Jiawei Shen, Chengcheng Wan<sup>*</sup>, Ruoyi Qiao, Jiazhen Zou, Hang Xu, <u>Yuchen Shao</u>, Yueling Zhang, Weikai Miao, Geguang Pu*  
-  The ACM International Conference on the Foundations of Software Engineering (FSE ’26)
-  [[Paper](https://arxiv.org/abs/2501.09310)]
+- **A Study of In-Context-Learning-Based Text-to-SQL Errors**  
+  Jiawei Shen, Chengcheng Wan<sup>*</sup>, Ruoyi Qiao, Jiazhen Zou, Hang Xu, <u>Yuchen Shao</u>, Yueling Zhang, Weikai Miao, Geguang Pu<sup>*</sup>  
+  *The ACM International Conference on the Foundations of Software Engineering (FSE ’26)* [[Paper](https://arxiv.org/abs/2501.09310)]
 
-- OmniStore: Towards a Unified Standard for Cost-Efficient, High-Performance Multi-modal Storage  
-  Long Yang, <u>Yuchen Shao</u>, Chengcheng Wan<sup>*</sup>, Liang Shi*  
-  The 24th USENIX Conference on File and Storage Technologies (FAST ’26 WiPs and Posters)
+- **OmniStore: Towards a Unified Standard for Cost-Efficient, High-Performance Multi-modal Storage**  
+  Long Yang, <u>Yuchen Shao</u>, Chengcheng Wan<sup>*</sup>, Liang Shi<sup>*</sup>  
+  *The 24th USENIX Conference on File and Storage Technologies (FAST ’26 WiPs and Posters)*
 
 **2025**
 
-- Are LLMs Correctly Integrated into Software Systems?  
+- **Are LLMs Correctly Integrated into Software Systems?**  
   <u>Yuchen Shao</u>, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan<sup>*</sup>  
-  International Conference on Software Engineering (ICSE ’25)  
-  [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
+  *International Conference on Software Engineering (ICSE ’25)* [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
 
 
 ## News
