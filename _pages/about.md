@@ -52,7 +52,7 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
 
 
 ## News
-- One misintegration case identified in our defect library Hydrangea has been officially and publicly assigned **CVE-2025-45150**.
+- One misintegration case identified in our defect library Hydrangea has been officially and publicly assigned CVE-2025-45150.
 
 ## Awards
 1. CCF Research Achievement Prototype System Competition Outstanding Award, 2025  
