@@ -21,7 +21,7 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
   <u>Yuchen Shao</u>, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan\*  
   International Conference on Software Engineering (ICSE ’26)
 
-- Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents  
+- Datura: Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents  
   <u>Yuchen Shao</u>, Ziqun Bao, Yuheng Huang, Yuling Shi, Mingyu Weng, Yiwen Sun, Long Yang, Lei Ma, Ting Su, Chengcheng Wan\*  
   International Symposium on Software Testing and Analysis (ISSTA'26)
 
