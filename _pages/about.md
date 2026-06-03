@@ -55,10 +55,12 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
 - One misintegration case identified in our defect library Hydrangea has been officially and publicly assigned CVE-2025-45150.
 
 ## Awards
-1. CCF Research Achievement Prototype System Competition Outstanding Award, 2025  
-2. Outstanding Graduate Award, Shanghai, 2023  
-3. Shanghai Municipal Scholarship, 2022  
-4. Outstanding Volunteer, Shanghai University, 2020  
+1. Joint Ph.D Student Scholarship, CSC, 2026
+2. Third Prize, 11th Innovation and Entrepreneurship Competition, East China Normal University, 2026
+3. CCF Research Achievement Prototype System Competition Outstanding Award, 2025  
+4. Outstanding Graduate Award, Shanghai, 2023  
+5. Shanghai Municipal Scholarship, 2022  
+6. Outstanding Volunteer, Shanghai University, 2020  
 
 ## Service and Talks
 1. [Talk] “From Empirical Study to Runtime Mitigation: Addressing Integration Failures in LLM-Enabled Software” in NUS-TEST Lab, February 2026. [[Link](https://nus-test.github.io/event/260211/)]  
