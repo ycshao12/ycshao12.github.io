@@ -49,6 +49,7 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
   <u>Yuchen Shao</u>, Yuheng Huang, Jiawei Shen, Lei Ma, Ting Su, Chengcheng Wan\*  
   International Conference on Software Engineering (ICSE ’25)  
   [[Paper](https://arxiv.org/abs/2407.05138)] [[Artifact](https://github.com/ecnusse/Hydrangea)]
+    *Awarded ACM Artifacts Available Badge at ICSE 2025 Artifact Evaluation*
 
 
 ## News
