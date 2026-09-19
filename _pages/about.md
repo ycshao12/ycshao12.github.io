@@ -26,7 +26,7 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
   <u>Yuchen Shao</u>, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan\*  
   International Conference on Software Engineering (ICSE ’26)
 
-- Understanding the Design Decisions of Retrieval-Augmented Generation Systems  
+- Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems  
   Shengming Zhao, <u>Yuchen Shao</u>, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan\*, Lei Ma\*  
   ACM Transactions on Software Engineering and Methodology (TOSEM'26)
   [[Paper](https://arxiv.org/abs/2411.19463v2)]
