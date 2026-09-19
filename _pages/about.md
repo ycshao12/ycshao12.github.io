@@ -17,14 +17,14 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
 
 **2026**
 
-- Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time  
-  <u>Yuchen Shao</u>, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan\*  
-  *Awarded Artifact Available and Reusable Badges at ISSTA 2026 Artifact Evaluation*  
-  International Conference on Software Engineering (ICSE ’26)
-
 - Datura: Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents  
   <u>Yuchen Shao</u>, Ziqun Bao, Yuheng Huang, Yuling Shi, Mingyu Weng, Yiwen Sun, Long Yang, Lei Ma, Ting Su, Chengcheng Wan\*  
+  *Awarded Artifact Available and Reusable Badges at ISSTA 2026 Artifact Evaluation*  
   International Symposium on Software Testing and Analysis (ISSTA'26)
+
+- Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time  
+  <u>Yuchen Shao</u>, Yuheng Huang, Jiazhen Zou, Yuling Shi, Long Yang, Lei Ma, Ting Su, Chengcheng Wan\*  
+  International Conference on Software Engineering (ICSE ’26)
 
 - Understanding the Design Decisions of Retrieval-Augmented Generation Systems  
   Shengming Zhao, <u>Yuchen Shao</u>, Yuheng Huang, Jiayang Song, Zhijie Wang, Chengcheng Wan\*, Lei Ma\*  
