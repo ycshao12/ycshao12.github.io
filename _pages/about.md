@@ -35,7 +35,7 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
   Ziqun Bao, Jiaqiang Niu, <u>Yuchen Shao</u>, Chengcheng Wan\*  
   The Web Conference 2026 (WWW ’26)
   
-- A Study of In-Context-Learning-Based Text-to-SQL Errors  
+- Understanding, Detecting, and Repairing Real-World In-Context-Learning-Based Text-to-SQL Errors    
   Jiawei Shen, Chengcheng Wan\*, Ruoyi Qiao, Jiazhen Zou, Hang Xu, <u>Yuchen Shao</u>, Yueling Zhang, Weikai Miao, Geguang Pu\*  
   The ACM International Conference on the Foundations of Software Engineering (FSE ’26)
   [[Paper](https://arxiv.org/abs/2501.09310)]
