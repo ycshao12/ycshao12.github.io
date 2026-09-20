@@ -19,7 +19,7 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
 
 - Datura: Progressive Red Teaming Testing for Tool Invocation Chain in LLM Agents  
   <u>Yuchen Shao</u>, Ziqun Bao, Yuheng Huang, Yuling Shi, Mingyu Weng, Yiwen Sun, Long Yang, Lei Ma, Ting Su, Chengcheng Wan\*  
-  *Awarded Artifact Available and Reusable Badges at ISSTA 2026 Artifact Evaluation*  
+  *Awarded Artifact Available, Functional and Reusable Badges at ISSTA 2026 Artifact Evaluation*  
   International Symposium on Software Testing and Analysis (ISSTA'26)
 
 - Comfrey: Mitigating Integration Failures in LLM-enabled Software at Run-Time  
