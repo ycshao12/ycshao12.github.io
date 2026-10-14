@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering Institute, [East China Normal University](https://english.ecnu.edu.cn/) (2023–) and [Shanghai Innovation Institute](https://www.sii.edu.cn/), co-advised by [Prof. Chengcheng Wan](https://chengcheng-wan.github.io/) and [Prof. Ting Su](https://tingsu.github.io/). Her undergraduate studies were undertaken at [Shanghai University](https://en.shu.edu.cn/) (2019–2023).
+Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering Institute, [East China Normal University](https://english.ecnu.edu.cn/) (2023–) and [Shanghai Innovation Institute](https://www.sii.edu.cn/), co-advised by [Prof. Chengcheng Wan](https://chengcheng-wan.github.io/) and [Prof. Ting Su](https://tingsu.github.io/). Her undergraduate studies were undertaken at [Shanghai University](https://en.shu.edu.cn/) (2019–2023).   
+
+In Fall 2026, she joins the [Test Lab](https://nus-test.github.io/people/) at the National University of Singapore as a visiting student, advised by [Prof. Manuel Rigger](https://www.manuelrigger.at/).
 
 ## Research Interest
 - SE for AI
@@ -67,7 +69,8 @@ Yuchen Shao（邵语辰）is a third-year Ph.D. student of Software Engineering 
 7. Outstanding Volunteer, Shanghai University, 2020  
 
 ## Service and Talks
-1. [Talk] “From Empirical Study to Runtime Mitigation: Addressing Integration Failures in LLM-Enabled Software” in NUS-TEST Lab, February 2026. [[Link](https://nus-test.github.io/event/260211/)]  
-2. [Review] Conference reviewer for WWW 2026 (The ACM Web Conference 2026)  
-3. [Talk] “Are LLMs Correctly Integrated into Software Systems?” at ICSE ’25, May 2025  
-4. [Teaching] TA of “Cloud Computing Technology”, ECNU, 2023  
+1. [Review] Conference reviewer for TOSEM 2026  
+2. [Talk] “From Empirical Study to Runtime Mitigation: Addressing Integration Failures in LLM-Enabled Software” in NUS-TEST Lab, February 2026. [[Link](https://nus-test.github.io/event/260211/)]    
+3. [Review] Conference reviewer for WWW 2026  
+5. [Talk] “Are LLMs Correctly Integrated into Software Systems?” at ICSE ’25, May 2025  
+6. [Teaching] TA of “Cloud Computing Technology”, ECNU, 2023  
